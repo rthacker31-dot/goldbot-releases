@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "release_date": "2026-06-20",
+  "notes": "Version initiale GoldBot Pro — DryRun stable, dashboard JWT, integrite SHA256",
+  "patch_url": "https://github.com/rthacker31-dot/goldbot-releases/releases/download/v1.0.0/GoldBot-v1.0.0-patch.zip",
+  "mandatory": false
+}
